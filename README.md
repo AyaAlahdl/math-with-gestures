@@ -1,4 +1,6 @@
 ✍️ Math with Gestures – AI Handwriting Recognition with Streamlit & CVZone
+
+
 This project allows users to draw mathematical expressions using hand gestures in real-time using a webcam. Leveraging OpenCV, CVZone's HandTrackingModule, and Streamlit, the system detects hand landmarks to capture gesture-based writing, processes the drawn input, and sends it to an AI model for interpretation and solving.
 
 🔍 Features
